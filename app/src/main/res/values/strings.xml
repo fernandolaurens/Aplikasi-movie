@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Top 10 anime terbaik</string>
+    <string name="animes_name">judul anime</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_page">About Page</string>
+    <string name="grid">Grid</string>
+    <string name="description_main">Deskripsi</string>
+    <string name="description_detail">Deskripsi Anime</string>
+    <string name="my_name">Laurens Fernando Pasaribu</string>
+    <string name="my_email">pasaribulaurens@gmail.com</string>
+    <string name="contac_person">contac_person</string>
+    <string name="diskirpsi">diskirpsi</string>
+    <string name="about">about</string>
+    <string name="ScrollView">ScrollView</string>
+    <string-array name="data_name">
+        <item>Howls Moving Castle</item>
+        <item>Josee, the Tiger and the Fish</item>
+        <item>Jujutsu Kaisen</item>
+        <item>A Silent Voice</item>
+        <item>Princess Mononoke</item>
+        <item>Spirited Away</item>
+        <item>My Neighbor Totoro</item>
+        <item>Weathering with You</item>
+        <item>The Wind Rises</item>
+        <item>Kimi No Na Wa</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>"Howl's Moving Castle" adalah sebuah film animasi Jepang yang disutradarai oleh Hayao Miyazaki. Sinopsis singkatnya adalah tentang seorang gadis muda bernama Sophie yang, setelah terkena kutukan yang mengubahnya menjadi wanita tua, mencari perlindungan di istana bergerak milik penyihir misterius bernama Howl. Perjalanan Sophie di dalam istana bergerak ini membawanya pada petualangan magis dan pengalaman yang mengubah hidupnya, sambil mengungkap rahasia dan konflik dalam dunia sihir yang kompleks.</item>
+        <item>"Josee, the Tiger and the Fish" adalah tentang seorang mahasiswa yang menjalin hubungan khusus dengan seorang wanita muda bernama Josee, yang memiliki kehidupan terbatas karena kondisi fisiknya, dan bersama-sama mereka menjelajahi makna kebebasan dan impian.</item>
+        <item>"Jujutsu Kaisen" adalah serial manga dan anime yang mengikuti kisah seorang siswa SMA bernama Yuji Itadori. Setelah menemukan dan membuka buku terkutuk yang berpotensi memanggil makhluk-makhluk jahat, Yuji terlibat dalam pertarungan melawan makhluk-makhluk tersebut untuk melindungi teman-temannya dan menyelamatkan dunia dari ancaman kengerian supernatural.</item>
+        <item>"A Silent Voice" (Koe no Katachi) adalah sebuah film anime Jepang yang diadaptasi dari manga berjudul sama karya Yoshitoki Ōima. Sinopsis singkatnya adalah tentang seorang remaja bernama Shoya Ishida yang mencoba menebus kesalahannya setelah ia dan teman-temannya mengintimidasi seorang gadis tuli bernama Shoko Nishimiya di masa lalu. Kisah ini menggambarkan perjalanan penebusan diri, penerimaan, dan hubungan manusiawi yang dalam antara kedua karakter utama, menjelajahi tema-tema seperti persahabatan, pengampunan, dan pertumbuhan pribadi.</item>
+        <item>Princess Mononoke" adalah kisah pangeran asing yang terlibat dalam konflik antara manusia dan roh hutan saat mencari penyembuhan untuk kutukan yang menimpanya.</item>
+        <item> "Spirited Away" adalah tentang seorang gadis bernama Chihiro yang tersesat di dunia magis yang penuh dengan makhluk fantastis, dan dia harus menemukan cara untuk menyelamatkan orang tuanya dan keluar dari situ.</item>
+        <item>"My Neighbor Totoro" adalah tentang petualangan dua saudara perempuan yang berkenalan dengan makhluk berbulu besar bernama Totoro saat mereka pindah ke pedesaan Jepang.</item>
+        <item>film "Weathering with You" adalah tentang seorang remaja yang memiliki kemampuan khusus untuk mengendalikan cuaca dan hubungannya dengan seorang gadis yang memiliki rahasia misterius terkait dengan fenomena alam tersebut.</item>
+        <item>The Wind Rises" adalah tentang kehidupan Jiro Horikoshi, seorang insinyur pesawat Jepang, yang menciptakan pesawat-pesawat legendaris pada periode sebelum Perang Dunia II, sambil menggambarkan kisah cinta dan penderitaan dalam hidupnya.</item>
+        <item>"Your Name" (Kimi no Na wa) adalah tentang dua remaja yang secara misterius bertukar tubuh dan berusaha menemukan cara untuk bertemu di dunia nyata, sementara mengungkap rahasia yang terkait dengan takdir mereka.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/howel_movie</item>
+        <item>@drawable/josee_tsuneo</item>
+        <item>@drawable/jujutsu</item>
+        <item>@drawable/silent_vioce</item>
+        <item>@drawable/mononoke</item>
+        <item>@drawable/sprit_away</item>
+        <item>@drawable/totoro</item>
+        <item>@drawable/weathering</item>
+        <item>@drawable/wind_rise</item>
+        <item>@drawable/your_name</item>
+    </integer-array>
+    <integer-array name="data_rating">
+        <item>4</item> <!-- Rating untuk Howls Moving Castle -->
+        <item>3</item> <!-- Rating untuk Josee, the Tiger and the Fish -->
+        <item>4</item> <!-- Rating untuk Jujutsu Kaisen -->
+        <item>8</item> <!-- Rating untuk A Silent Voice -->
+        <item>2</item> <!-- Rating untuk Princess Mononoke -->
+        <item>9</item> <!-- Rating untuk Spirited Away -->
+        <item>7</item> <!-- Rating untuk My Neighbor Totoro -->
+        <item>5</item> <!-- Rating untuk Weathering with You -->
+        <item>3</item> <!-- Rating untuk The Wind Rises -->
+        <item>6</item> <!-- Rating untuk Kimi No Na Wa -->
+    </integer-array>
+</resources>
